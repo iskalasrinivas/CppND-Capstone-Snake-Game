@@ -8,7 +8,7 @@ Following modifications were made to Udacity Game repo:
 3. Snake Length increases with consumption of its prey but not speed of snake
 
 
-Rubric Points:
+## Rubric Points
 Functions Control Loops:
 The project code is organized into classes
 Project accept user inputs and the inputs are used to control the snake.
